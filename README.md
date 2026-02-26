@@ -18,7 +18,7 @@ A clean, modern, and fully responsive landing page built from a Figma/PSD design
 ![AOS]
 
 ## Live Demo
-View Live Demo](https://zrozik-cmd.github.io/layout_landing-page/)
+View Live Demo](https://zrozik-cmd.github.io/Modern-Landing-Page/)
 
 ## Author
 
