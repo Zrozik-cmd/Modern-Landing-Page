@@ -16,16 +16,16 @@
 
 // #region mixin-header
 @mixin content-background-image {
-  background-image: url(/src/img/bg/header-bg-mobile.png);
+  background-image: url(/src/img/bg/header-bg-mobile.jpg);
   background-position: right;
 
   @include on-tablet {
-    background-image: url(/src/img/bg/header-bg-tablet.png);
+    background-image: url(/src/img/bg/header-bg-tablet.jpg);
     background-position: center;
   }
 
   @include on-desktop {
-    background-image: url(/src/img/bg/header-bg-desktop.png);
+    background-image: url(/src/img/bg/header-bg-desktop.jpg);
     background-position: center;
   }
 }
